@@ -1,0 +1,48 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.head3 {
+    width: 70%;
+    margin: 0 auto;
+}
+.head {
+    background-image: url(../img/beach3.jpg);
+    background-size: cover;
+    height:500px;
+    width: 100%;
+    font-size: 40px;
+    position: relative;
+}
+.head1 {
+    margin: 10px;
+}
+.head2 {
+    position: absolute;
+    left: 0;
+    background-color: #c39b3ec6;
+    bottom: 60px;
+    width: 60%;
+    padding: 15px 20px;
+}
+.container {
+    margin: 80px 50px;
+}
+.container1 {
+    display: flex;
+}
+.container11 {
+    margin:20px 20px 80px 20px;
+}
+.container112 {
+    font-size: 45px;
+    margin-top: 25px;
+}
+.container113 {
+    font-size: 20px;
+    margin-top: 30px;
+}
+img {
+    border-top:12px solid #f7c241;
+}
